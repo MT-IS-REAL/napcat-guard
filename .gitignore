@@ -1,0 +1,11 @@
+# 真配置（含账号、token）不进仓库
+config.json
+
+# 运行产物
+guard.log
+guard-state.json
+*.bak
+
+# 系统垃圾
+Thumbs.db
+desktop.ini

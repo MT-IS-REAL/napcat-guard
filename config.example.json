@@ -1,0 +1,16 @@
+{
+    "backoffSeconds":  900,
+    "notify":  {
+                   "apiToken":  "",
+                   "maxPerOutage":  2,
+                   "userId":  "",
+                   "apiBase":  "http://127.0.0.1:3000",
+                   "enabled":  false
+               },
+    "apiBase":  "http://127.0.0.1:3000",
+    "apiToken":  "whale-api-2026",
+    "missesBeforeAction":  2,
+    "napcatHome":  "E:\\NapCat.Shell.Windows.Node\\napcat",
+    "qqExePath":  "E:\\Tencent\\QQ\\QQ.exe",
+    "account":  "3528417910"
+}
